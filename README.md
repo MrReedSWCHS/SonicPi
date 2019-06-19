@@ -70,7 +70,7 @@ Notes available (clickable links) online at [mrreedswchs.github.io](http://mrree
 <br>More basic but still very useful course.
 
 * <https://github.com/raspberrypilearning/sonic-pi-lessons>
-<br>Scheme of work developed by Pi foundation for the Live & Coding research project.
+<br>(Archived) Scheme of work developed by Pi foundation for the Live & Coding research project.
 
 * <https://www.raspberrypi.org/magpi-issues/Essentials_Sonic_Pi-v1.pdf>
 <br>Magpi magazine. A bit old now but a great PDF resource. Good ideas for making printed resources of your own.
@@ -93,14 +93,17 @@ Notes available (clickable links) online at [mrreedswchs.github.io](http://mrree
 * <https://www.codecademy.com/learn/learn-ruby>
 <br>Since Sonic Pi uses Ruby, this would be a useful course for teachers or to direct students who wanted to master the computer science elements.
 
-### Blogs and blog posts
+### Blogs and isolated posts
 
 * <https://rbnrpi.wordpress.com/>
 * <https://manwaringmusic.blog/2018/04/24/sonic-pi-diaries-pt-2/>
+* <https://www.bbc.co.uk/programmes/p031dq3j> - Sonic Pi and BBC Ten Pieces
 
 ## Research and further reading
 
 * Collins (2016): Live coding and teaching SuperCollider: <http://dro.dur.ac.uk/17855/1/17855.pdf>
+* <https://algorave.com/>
+* <https://toplap.org/>
 
 
 ## Sonic Pi in use
@@ -108,7 +111,7 @@ Notes available (clickable links) online at [mrreedswchs.github.io](http://mrree
 * A playlist of my explorations and my students' work: <https://www.youtube.com/playlist?list=PLUzqDorR42SQpTcLEXTBuj-D0rAYYI52A>
 * Sonic Pi in use in the Albert Hall: <https://vimeo.com/328673793#t=59m10s>
 
-## Other computing stuff
+## Other stuff
 
 * <https://github.com/tmcw/big> - Simple JS presentations
 * <http://jmcglone.com/guides/github-pages/> - Simple web storage
